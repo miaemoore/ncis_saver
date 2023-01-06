@@ -21,7 +21,7 @@ ${account_name}=        MiMoore@pathgroup.com
 #Email folder where NCIS emails are stored
 ${folder_name}=         New Accounts
 #Path of folder where NCIS files should go
-${output_folder}=       ${OUTPUT_DIR}${/}Attachments${/}NCIS${/}
+${output_folder}=       I:${/}MDI WORKING FOLDER${/}New Accounts${/}2023${/}
 #NCIS forms that have been saved to the MDI folder go to this email folder
 ${archive_folder}=      New Accounts Archived
 
